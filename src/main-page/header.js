@@ -9,8 +9,8 @@ const Header = () => {
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav>
                             <Nav.Link href="/">Home</Nav.Link>
-                            <Nav.Link href="/about">About</Nav.Link>
-                            <Nav.Link href="funstuff">Fun Stuff</Nav.Link>
+                            <Nav.Link href="/about-me">About Me</Nav.Link>
+                            <Nav.Link href="fun-stuff">Fun Stuff</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
