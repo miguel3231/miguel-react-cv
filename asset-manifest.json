@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/miguel-react-cv/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/miguel-react-cv/static/js/main.56de2f84.chunk.js",
-    "main.js.map": "/miguel-react-cv/static/js/main.56de2f84.chunk.js.map",
-    "runtime-main.js": "/miguel-react-cv/static/js/runtime-main.3f40a6c0.js",
-    "runtime-main.js.map": "/miguel-react-cv/static/js/runtime-main.3f40a6c0.js.map",
+    "main.js": "/miguel-react-cv/static/js/main.c59f7bdc.chunk.js",
+    "main.js.map": "/miguel-react-cv/static/js/main.c59f7bdc.chunk.js.map",
+    "runtime-main.js": "/miguel-react-cv/static/js/runtime-main.77f65f30.js",
+    "runtime-main.js.map": "/miguel-react-cv/static/js/runtime-main.77f65f30.js.map",
     "static/css/2.da1eef19.chunk.css": "/miguel-react-cv/static/css/2.da1eef19.chunk.css",
-    "static/js/2.49bf9a91.chunk.js": "/miguel-react-cv/static/js/2.49bf9a91.chunk.js",
-    "static/js/2.49bf9a91.chunk.js.map": "/miguel-react-cv/static/js/2.49bf9a91.chunk.js.map",
-    "static/js/3.9f932af8.chunk.js": "/miguel-react-cv/static/js/3.9f932af8.chunk.js",
-    "static/js/3.9f932af8.chunk.js.map": "/miguel-react-cv/static/js/3.9f932af8.chunk.js.map",
+    "static/js/2.5477ef13.chunk.js": "/miguel-react-cv/static/js/2.5477ef13.chunk.js",
+    "static/js/2.5477ef13.chunk.js.map": "/miguel-react-cv/static/js/2.5477ef13.chunk.js.map",
+    "static/js/3.1bfeabff.chunk.js": "/miguel-react-cv/static/js/3.1bfeabff.chunk.js",
+    "static/js/3.1bfeabff.chunk.js.map": "/miguel-react-cv/static/js/3.1bfeabff.chunk.js.map",
     "index.html": "/miguel-react-cv/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/miguel-react-cv/static/css/2.da1eef19.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/miguel-react-cv/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.49bf9a91.chunk.js.LICENSE.txt": "/miguel-react-cv/static/js/2.49bf9a91.chunk.js.LICENSE.txt",
+    "static/js/2.5477ef13.chunk.js.LICENSE.txt": "/miguel-react-cv/static/js/2.5477ef13.chunk.js.LICENSE.txt",
+    "static/media/batman-comic-1.2f452a35.png": "/miguel-react-cv/static/media/batman-comic-1.2f452a35.png",
     "static/media/face.59821c11.jpg": "/miguel-react-cv/static/media/face.59821c11.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f40a6c0.js",
+    "static/js/runtime-main.77f65f30.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.49bf9a91.chunk.js",
+    "static/js/2.5477ef13.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.56de2f84.chunk.js"
+    "static/js/main.c59f7bdc.chunk.js"
   ]
 }
